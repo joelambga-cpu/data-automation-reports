@@ -1,6 +1,5 @@
-# Data Automation & Reporting
+# data-automation-reports
 
-Automazione di pulizia dati e generazione report con Python.
+See the [main project README](../README.md) for the project scope, installation, usage and limitations.
 
-## 📂 Struttura progetto
-
+This directory contains the application. Run the documented Python commands from this folder.
